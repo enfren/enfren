@@ -1,31 +1,58 @@
-# Hi, I’m enfren  
-**C++ · Python · SQL Orbital Wealth Engineer**  
-*“Rainfall → compound interest. Asteroid dust → retirement diamonds.”*
+cat > README.md << 'EOF'
+# enfren — Orbital Wealth Engineer | Bitcoin × Space Systems × Precious Metals
 
-**LIVE** → [retirement.enfren.dev](https://retirement.enfren.dev)  
-**DIAMONDS THIS MONTH** → ![Diamonds](https://img.shields.io/badge/Diamonds-3-ffd700)
+**C++ · Python · SQL · Blockchain Security · Orbital Mechanics · Biosensors**
 
-### My 12-Month CD Ladder (live)→ **$1k cash-flow every 30 days** → auto-reinvested into VTI
+> “Rainfall → compound interest. Asteroid dust → retirement diamonds. Bitcoin → Mars reserve currency.”
 
-### 3 Live Engines
-| Engine | Pay my way |
-|--------|------------|
-| [AsteroidVault](https://github.com/enfren/AsteroidVault) | 12-rung ladder → 12 ct/year |
-| [PacificRebalancer](https://github.com/enfren/PacificRebalancer) | AirBnB cash → VTI at 3:41 am |
-| [LunarRIA](https://github.com/enfren/LunarRIA) | Runs my $800 k orbit |
+**LIVE DASHBOARD** → [retirement.enfren.dev](https://retirement.enfren.dev)
 
-### Scout-Ship Investing
-- CEO matcha tea?  
-- 5★ AirBnB guest?  
-- Trees or satellites?
+### Real-Time Orbital + Commodity Telemetry
 
-### 2025 Commits Only
-![2025 Stats](https://github-readme-stats.vercel.app/api?username=enfren&theme=radical&hide=issues,prs&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
-![2025 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enfren&layout=donut&theme=radical&hide_border=true&langs_count=8)
+| Metric                  | Value                  | Source |
+|-------------------------|------------------------|--------|
+| **Bitcoin Price**       | ![Bitcoin](https://img.shields.io/badge/bitcoin-%24103,420-FFD700?style=flat&labelColor=0D1117) | CoinGecko |
+| **Gold Price**          | ![Gold](https://img.shields.io/badge/gold-%242,687.40/oz-FFD700?style=flat&labelColor=0D1117) | Kitco |
+| **Silver Price**        | ![Silver](https://img.shields.io/badge/silver-%433.18/oz-C0C0C0?style=flat&labelColor=0D1117) | Kitco |
+| **Copper Price**        | ![Copper](https://img.shields.io/badge/copper-%245.12/lb-D96459?style=flat&labelColor=0D1117) | LME |
+| **Tesla (TSLA)**        | ![TSLA](https://img.shields.io/badge/TSLA-%24281.03-green?style=flat&labelColor=0D1117) | Yahoo Finance |
+| **SpaceX Valuation**    | **$350 B** (May 2025 round) | Bloomberg |
+| **Meteor Showers Active** | **Leonids Peak: Nov 17–18** (15/hr) | AMS |
+| **Visible Planets Tonight** | Jupiter, Saturn, Mars | Stellarium |
+| **2025 Commit Streak**  | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=enfren&theme=tokyonight&hide_border=true) | GitHub |
 
-### 15-sec warp call
-[cal.com/enfren/15min](https://cal.com/enfren/15min) • @enfren0
+### Active Engines
 
-> Open to Vanguard Quant, $2 B RIA, or $3 k Saturday gigs.
+| Engine             | Yield                     | Status   |
+|--------------------|---------------------------|----------|
+| AsteroidVault      | 12 ct/year                | Nominal  |
+| LunarRIA           | $800 k → $100 M (2030)    | Boost    |
+| BeltNode-01        | Bitcoin LEO relay         | Online   |
 
-Drop your email → I forward the first 7-figure term sheet.
+### Scout-Ship Thesis
+
+- Bitcoin: digital gold  
+- Gold/Silver/Copper: physical rocket fuel  
+- Starlink: internet for Mars  
+- Biosensors: health for 1.2 g training  
+
+### Tactical Comms
+
+**15-sec warp call** → [cal.com/enfren/15min](https://cal.com/enfren/15min)  
+**Secure** → [@enfren0](https://twitter.com/enfren0) | PGP `0xF8A5C3E9`
+
+**Targeting:**
+- Bitcoin Core contributor
+- SpaceX/Starlink flight software
+- $2 B+ RIA blockchain custody
+
+> Drop your email → encrypted 7-figure term sheet forward.
+
+### Current Mission: CS258 Lab05 — Part A → 100 %
+
+```cpp
+virtual bool add(const T& item) = 0;
+//               const T& item   zero-copy UTXO move
+//                             ↓
+//                        = 0        forces override in all impl
+//                             ↑
