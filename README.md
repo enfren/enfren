@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # enfren — Orbital Wealth Engineer | Bitcoin × Space Systems × Precious Metals
 
 **C++ · Python · SQL · Blockchain Security · Orbital Mechanics · Biosensors**
@@ -16,7 +15,7 @@ cat > README.md << 'EOF'
 | **Silver Price**        | ![Silver](https://img.shields.io/badge/silver-%433.18/oz-C0C0C0?style=flat&labelColor=0D1117) | Kitco |
 | **Copper Price**        | ![Copper](https://img.shields.io/badge/copper-%245.12/lb-D96459?style=flat&labelColor=0D1117) | LME |
 | **Tesla (TSLA)**        | ![TSLA](https://img.shields.io/badge/TSLA-%24281.03-green?style=flat&labelColor=0D1117) | Yahoo Finance |
-| **SpaceX Valuation**    | **$350 B** (May 2025 round) | Bloomberg |
+| **SpaceX (XPL)**        | **$350 B** (May 2025) | Bloomberg |
 | **Meteor Showers Active** | **Leonids Peak: Nov 17–18** (15/hr) | AMS |
 | **Visible Planets Tonight** | Jupiter, Saturn, Mars | Stellarium |
 | **2025 Commit Streak**  | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=enfren&theme=tokyonight&hide_border=true) | GitHub |
@@ -34,7 +33,7 @@ cat > README.md << 'EOF'
 - Bitcoin: digital gold  
 - Gold/Silver/Copper: physical rocket fuel  
 - Starlink: internet for Mars  
-- Biosensors: health for 1.2 g training  
+- Biosensors: health for 1.2 g TRAINING  
 
 ### Tactical Comms
 
@@ -44,7 +43,8 @@ cat > README.md << 'EOF'
 **Targeting:**
 - Bitcoin Core contributor
 - SpaceX/Starlink flight software
-- $2 B+ RIA blockchain custody
+- $2 B+ RIA blockchain custody  
+**Summer 2026 paid internship — remote or on-site (Mars preferred)**
 
 > Drop your email → encrypted 7-figure term sheet forward.
 
@@ -56,3 +56,4 @@ virtual bool add(const T& item) = 0;
 //                             ↓
 //                        = 0        forces override in all impl
 //                             ↑
+```
