@@ -28,22 +28,31 @@
 | LunarRIA           | $800 k → $100 M (2030)    | Boost    |
 | BeltNode-01        | Bitcoin LEO relay         | Online   |
 
+### Pinned Engines
+
+[![BlockchainSentinel](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=BlockchainSentinel&theme=dark)](https://github.com/enfren/BlockchainSentinel)
+[![CoreDevShield](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=CoreDevShield&theme=dark)](https://github.com/enfren/CoreDevShield)
+[![FinanceDashboard](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=FinanceDashboard&theme=dark)](https://github.com/enfren/FinanceDashboard)
+[![ScienceTelemetry](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=ScienceTelemetry&theme=dark)](https://github.com/enfren/ScienceTelemetry)
+[![RoboExplorer](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=RoboExplorer&theme=dark)](https://github.com/enfren/RoboExplorer)
+[![AssetTracker](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=AssetTracker&theme=dark)](https://github.com/enfren/AssetTracker)
+
 ### Scout-Ship Thesis
 
-- Bitcoin: digital gold  
-- Gold/Silver/Copper: physical rocket fuel  
-- Starlink: internet for Mars  
-- Biosensors: health for 1.2 g TRAINING  
+- Bitcoin: digital gold
+- Gold/Silver/Copper: physical rocket fuel
+- Starlink: internet for Mars
+- Biosensors: health for 1.2 g TRAINING
 
 ### Tactical Comms
 
-**15-sec warp call** → [cal.com/enfren/15min](https://cal.com/enfren/15min)  
+**15-sec warp call** → [cal.com/enfren/15min](https://cal.com/enfren/15min)
 **Secure** → [@enfren0](https://twitter.com/enfren0) | PGP `0xF8A5C3E9`
 
 **Targeting:**
 - Bitcoin Core contributor
 - SpaceX/Starlink flight software
-- $2 B+ RIA blockchain custody  
+- $2 B+ RIA blockchain custody
 **Summer 2026 paid internship — remote or on-site (Mars preferred)**
 
 > Drop your email → encrypted 7-figure term sheet forward.
