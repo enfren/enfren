@@ -23,7 +23,6 @@ Real-time mission control for terrestrial and near-Earth value streams: crypto r
 | **SpaceX Valuation**    | **$350 B** (May 2025)                              | Bloomberg     |
 | **Meteor Showers**      | **Leonids Peak: Nov 17–18** (15/hr)                | AMS           |
 | **Visible Planets**     | Jupiter, Saturn, Mars                              | Stellarium    |
-| **2025 Commit Streak**  | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=enfren&theme=tokyonight&hide_border=true) | GitHub |
 
 ### Active Engines
 | Engine       | Yield                     | Status  |
@@ -37,22 +36,22 @@ Expert-level C++ constellation simulator: laser inter-satellite links, Doppler-a
 
 ### Pinned Engines
 [![BlockchainSentinel](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=BlockchainSentinel&theme=dark)](https://github.com/enfren/BlockchainSentinel)  
-Quiet watchdog that scans every new Bitcoin block for suspicious covenant patterns.
+Quiet covenant hunter: sifts new Bitcoin blocks for op_code anomalies, like an orbital drone scanning for stealth asteroids in the mempool.
 
 [![CoreDevShield](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=CoreDevShield&theme=dark)](https://github.com/enfren/CoreDevShield)  
-Hardened patch set and review tools I use when contributing to Bitcoin Core.
+My patch-forged toolkit for Bitcoin Core reviews—fuzz tests and sig verification, ensuring the chain's bark stays as tough as its vacuum-cooled bite.
 
 [![FinanceDashboard](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=FinanceDashboard&theme=dark)](https://github.com/enfren/FinanceDashboard)  
-The private cockpit behind retirement.enfren.dev — multi-exchange + on-chain + metals.
+Pilot seat behind retirement.enfren.dev: fuses on-chain UTXOs with metals ticks, plotting the slow terraform of fiat dust into silvan yields.
 
 [![ScienceTelemetry](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=ScienceTelemetry&theme=dark)](https://github.com/enfren/ScienceTelemetry)  
-Real-time ingestion pipeline for orbital elements, meteor showers, and exoplanet transits.
+Ingestion rig for ephemeris feeds and transit alerts—pipes meteor iron and exoplanet shadows into databases, prepping the star-maps for 2178's first blue dawn.
 
 [![RoboExplorer](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=RoboExplorer&theme=dark)](https://github.com/enfren/RoboExplorer)  
-Lightweight autonomy stack I run on small rovers in the desert (and sometimes on Mars time).
+Rover autonomy kernel: pathfinds desert regolith (or Martian simulacra) with SLAM and hazard avoidance, one wheel-spin closer to forested ridge-lines on new worlds.
 
 [![AssetTracker](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=AssetTracker&theme=dark)](https://github.com/enfren/AssetTracker)  
-Cold-storage multisig orchestrator that treats seed phrases like launch codes.
+Multisig vault warden: orchestrates cold seeds like colony-ship manifests, with air-gapped thresholds to guard against the entropy of forgotten vaults.
 
 ### Scout-Ship Thesis
 - Bitcoin → digital gold, the only monetary metal that teleports
