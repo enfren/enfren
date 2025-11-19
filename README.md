@@ -34,25 +34,6 @@ Real-time telemetry for cislunar value streams, platinum-group drift, and forest
 ### Current Mission
 Expert-level C++ constellation simulator: laser inter-satellite links, Doppler-aware routing tables, and zero-trust packet validation for a future Starlink-scale mesh in cislunar space.
 
-### Pinned Engines
-[![BlockchainSentinel](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=BlockchainSentinel&theme=dark)](https://github.com/enfren/BlockchainSentinel)  
-Quiet covenant hunter: sifts new Bitcoin blocks for op_code anomalies, like an orbital drone scanning for stealth asteroids in the mempool.
-
-[![CoreDevShield](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=CoreDevShield&theme=dark)](https://github.com/enfren/CoreDevShield)  
-My patch-forged toolkit for Bitcoin Core reviews—fuzz tests and sig verification, ensuring the chain's bark stays as tough as its vacuum-cooled bite.
-
-[![FinanceDashboard](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=FinanceDashboard&theme=dark)](https://github.com/enfren/FinanceDashboard)  
-Pilot seat behind retirement.enfren.dev: fuses on-chain UTXOs with metals ticks, plotting the slow terraform of fiat dust into silvan yields.
-
-[![ScienceTelemetry](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=ScienceTelemetry&theme=dark)](https://github.com/enfren/ScienceTelemetry)  
-Ingestion rig for ephemeris feeds and transit alerts—pipes meteor iron and exoplanet shadows into databases, prepping the star-maps for 2178's first blue dawn.
-
-[![RoboExplorer](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=RoboExplorer&theme=dark)](https://github.com/enfren/RoboExplorer)  
-Rover autonomy kernel: pathfinds desert regolith (or Martian simulacra) with SLAM and hazard avoidance, one wheel-spin closer to forested ridge-lines on new worlds.
-
-[![AssetTracker](https://github-readme-stats.vercel.app/api/pin/?username=enfren&repo=AssetTracker&theme=dark)](https://github.com/enfren/AssetTracker)  
-Multisig vault warden: orchestrates cold seeds like colony-ship manifests, with air-gapped thresholds to guard against the entropy of forgotten vaults.
-
 ### Scout-Ship Thesis
 - Bitcoin → digital gold, the only monetary metal that teleports
 - Au / Ag / Cu / PGMs → physical rocket fuel and civilization substrate
