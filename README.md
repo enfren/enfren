@@ -3,8 +3,8 @@
 
 > “Monsoons seed quiet lattices in well-tended silvan mountain ranges. Psyche’s slow iron exhale writes trillion-year call options across 226 kilometers of star-forged nickel. Twenty-one million final keys—minted in fire, cooled in vacuum, launched on solar sails—become the only currency that still balances when the last terrestrial ledger burns and the colony ships open their first off-world vault beneath a newly blue sky on a red dawn in 2178.”
 
-**LIVE DASHBOARD** → [retirement.enfren.dev](https://retirement.enfren.dev)  
-Real-time mission control for terrestrial and near-Earth value streams: crypto reserves, platinum-group drift, and the occasional meteor shower.
+**MISSION CONTROL** → [enfrenmissioncontrol.dev](https://enfrenmissioncontrol.dev)  
+Real-time telemetry for cislunar value streams, platinum-group drift, and forested futures.
 
 ### Real-Time Orbital + Commodity Telemetry
 | Metric                  | Value                                      | Source        |
