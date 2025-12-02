@@ -3,26 +3,26 @@
 
 > “Monsoons seed quiet lattices in well-tended silvan mountain ranges. Psyche’s slow iron exhale writes trillion-year call options across 226 kilometers of star-forged nickel. Twenty-one million final keys—minted in fire, cooled in vacuum, launched on solar sails—become the only currency that still balances when the last terrestrial ledger burns and the colony ships open their first off-world vault beneath a newly blue sky on a red dawn in 2178.”
 
-**MISSION CONTROL** → [enfrenmissioncontrol.dev](https://enfrenmissioncontrol.dev)  
+**MISSION CONTROL** → [enfrenmissioncontrol.dev](https://enfrenmissioncontrol.dev)
 Real-time telemetry for cislunar value streams, platinum-group drift, and forested futures.
 
 ### Real-Time Orbital + Commodity Telemetry
-| Metric                  | Value                                      | Source        |
-|-------------------------|--------------------------------------------|---------------|
+| Metric                  | Value                                                                                           | Source        |
+|-------------------------|-------------------------------------------------------------------------------------------------|---------------|
 | **Bitcoin Price**       | ![Bitcoin](https://img.shields.io/badge/bitcoin-%24103,420-FFD700?style=flat&labelColor=0D1117) | CoinGecko     |
-| **Rh Price**            | ![Rh](https://img.shields.io/badge/Rh-%2415,000/oz-E5E5E5?style=flat&labelColor=0D1117)       | Kitco         |
-| **Au Price**            | ![Au](https://img.shields.io/badge/Au-%242,687.40/oz-FFD700?style=flat&labelColor=0D1117)   | Kitco         |
-| **Ir Price**            | ![Ir](https://img.shields.io/badge/Ir-%244,000/oz-4B0082?style=flat&labelColor=0D1117)       | Kitco         |
-| **Pt Price**            | ![Pt](https://img.shields.io/badge/Pt-%241,000/oz-C0C0C0?style=flat&labelColor=0D1117)       | Kitco         |
-| **Pd Price**            | ![Pd](https://img.shields.io/badge/Pd-%241,000/oz-E5E5E5?style=flat&labelColor=0D1117)       | Kitco         |
-| **Ag Price**            | ![Ag](https://img.shields.io/badge/Ag-%2433.33/oz-C0C0C0?style=flat&labelColor=0D1117)       | Kitco         |
-| **Ru Price**            | ![Ru](https://img.shields.io/badge/Ru-%24500/oz-4B0082?style=flat&labelColor=0D1117)         | Kitco         |
-| **Os Price**            | ![Os](https://img.shields.io/badge/Os-%24400/oz-4B0082?style=flat&labelColor=0D1117)         | Kitco         |
-| **Cu Price**            | ![Cu](https://img.shields.io/badge/Cu-%245.12/lb-D96459?style=flat&labelColor=0D1117)        | LME           |
-| **Tesla (TSLA)**        | ![TSLA](https://img.shields.io/badge/TSLA-%24281.03-green?style=flat&labelColor=0D1117)      | Yahoo Finance |
-| **SpaceX Valuation**    | **$350 B** (May 2025)                              | Bloomberg     |
-| **Meteor Showers**      | **Leonids Peak: Nov 17–18** (15/hr)                | AMS           |
-| **Visible Planets**     | Jupiter, Saturn, Mars                              | Stellarium    |
+| **Rh Price**            | ![Rh](https://img.shields.io/badge/Rh-%2415,000/oz-E5E5E5?style=flat&labelColor=0D1117)         | Kitco         |
+| **Au Price**            | ![Au](https://img.shields.io/badge/Au-%242,687.40/oz-FFD700?style=flat&labelColor=0D1117)       | Kitco         |
+| **Ir Price**            | ![Ir](https://img.shields.io/badge/Ir-%244,000/oz-4B0082?style=flat&labelColor=0D1117)          | Kitco         |
+| **Pt Price**            | ![Pt](https://img.shields.io/badge/Pt-%241,000/oz-C0C0C0?style=flat&labelColor=0D1117)          | Kitco         |
+| **Pd Price**            | ![Pd](https://img.shields.io/badge/Pd-%241,000/oz-E5E5E5?style=flat&labelColor=0D1117)          | Kitco         |
+| **Ag Price**            | ![Ag](https://img.shields.io/badge/Ag-%2433.33/oz-C0C0C0?style=flat&labelColor=0D1117)          | Kitco         |
+| **Ru Price**            | ![Ru](https://img.shields.io/badge/Ru-%24500/oz-4B0082?style=flat&labelColor=0D1117)            | Kitco         |
+| **Os Price**            | ![Os](https://img.shields.io/badge/Os-%24400/oz-4B0082?style=flat&labelColor=0D1117)            | Kitco         |
+| **Cu Price**            | ![Cu](https://img.shields.io/badge/Cu-%245.12/lb-D96459?style=flat&labelColor=0D1117)           | LME           |
+| **Tesla (TSLA)**        | ![TSLA](https://img.shields.io/badge/TSLA-%24281.03-green?style=flat&labelColor=0D1117)         | Yahoo Finance |
+| **SpaceX Valuation**    | **$350 B** (May 2025)                                                                           | Bloomberg     |
+| **Meteor Showers**      | **Leonids Peak: Nov 17–18** (15/hr)                                                             | AMS           |
+| **Visible Planets**     | Jupiter, Saturn, Mars                                                                           | Stellarium    |
 
 ### Active Engines
 | Engine       | Yield                     | Status  |
@@ -41,7 +41,4 @@ Expert-level C++ constellation simulator: laser inter-satellite links, Doppler-a
 - Biosensors → staying alive at 1.2 g for decades
 
 ### Tactical Comms
-Always open to quiet conversations with fellow travelers: think-tank meetups, small sci-fi cons, orbital mechanics workshops, or just coffee on this planet or the next.
-
-**15-sec warp call** → [cal.com/enfren/15min](https://cal.com/enfren/15min)  
-**Secure** → [@enfren0](https://twitter.com/enfren0) | PGP `0xF8A5C3E9`
+Always open to conversations with fellow travelers: think-tank meetups, small sci-fi cons, orbital mechanics workshops, or just lunch on this planet or the next.
