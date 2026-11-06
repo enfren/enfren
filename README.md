@@ -22,3 +22,6 @@ Interested in banking, precious metals, and tech equities.
 - [ ] Loan amortization & credit card payoff
 - [ ] NPV / IRR / Annuity calculators
 - [ ] Live market data dashboard 
+
+
+Last updated: 2026-11-05
