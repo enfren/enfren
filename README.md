@@ -1,7 +1,6 @@
 # enfren
 
-Python developer building financial calculation tools from scratch.
-Interested in banking, precious metals, and tech equities.
+Python · C++ · JS — financial modeling, precious metals, and equity analysis.
 
 ## Currently Building
 
@@ -12,9 +11,8 @@ Interested in banking, precious metals, and tech equities.
 ## Interests
 
 - 🏦 Banking & credit union products
-- 🥇 Precious elements (Rh, Pd, Pt, Au, Ag)
+- 🥇 Precious metals (Rh, Pd, Pt, Au, Ag)
 - 📈 Tech equities
-- 🐍 Python for finance
 - 🐧 Linux
 
 ## Roadmap
@@ -22,6 +20,5 @@ Interested in banking, precious metals, and tech equities.
 - [ ] Loan amortization & credit card payoff
 - [ ] NPV / IRR / Annuity calculators
 - [ ] Live market data dashboard 
-
 
 Last updated: 2026-11-05
