@@ -6,7 +6,7 @@ I build fast real-time systems in C++, analyze with Python, and ship playful fro
 
 | Game | What it is | Demo |
 | --- | --- | --- |
-| [vanilla-js-space-dodger](https://github.com/enfren/vanilla-js-space-dodger) | 2D dodge + shoot, Canvas | [Play](https://enfren.github.io/vanilla-js-space-dodger/) |
+| [space-dodger-js](https://github.com/enfren/space-dodger-js) | 2D dodge + shoot, Canvas | [Play](https://enfren.github.io/space-dodger-js/) |
 | [tetris-js](https://github.com/enfren/tetris-js) | Classic Tetris, Canvas | [Play](https://enfren.github.io/tetris-js/) |
 
 ## 📊 Financial Tools
