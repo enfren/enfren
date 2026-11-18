@@ -17,7 +17,7 @@ I build fast real-time systems in C++, analyze with Python, and ship playful fro
 | [financial-calcs](https://github.com/enfren/financial-calcs) | TVM: savings, CD, loans | |
 
 ## Currently Building
-- [vanilla-js-space-dodger](https://github.com/enfren/vanilla-js-space-dodger) v2: shooting, HP system, sized obstacles
+- [space-dodger-js](https://github.com/enfren/space-dodger-js) v2: shooting, HP system, sized obstacles
 - C++ latency benchmark: tick data, p50/p99, ring buffer vs deque 
 
 ## Interests
